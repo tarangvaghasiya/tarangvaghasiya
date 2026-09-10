@@ -6,7 +6,7 @@
      particles, a fade+rise title with a shimmering sweep, a typewriter subtitle
      with a blinking cursor, and a two-layer parallax wave — all via native SVG
      SMIL easing (calcMode="spline"), so it plays smoothly wherever GitHub renders it. -->
-<img src="./assets/banner.svg" width="100%"/>
+<img src="./banner.svg" width="100%"/>
 
 <!-- ============ TERMINAL-STYLE TYPING INTRO (secondary line) ============ -->
 <a href="https://github.com/tarangvaghasiya">
